@@ -1,0 +1,124 @@
+==========================================
+ MONITOREO CLUSTER MPI - lun 28 set 2026 00:42:35 -05
+ Intervalo: 2s | Ctrl+C para detener
+==========================================
+[H[2J[3J=== 00:42:35 ===
+
+--- master ---
+CPU: 23,8% usado
+MEM: 1332MB/1868MB (71,3%)
+LOAD: 1,96, 1,92, 1,65
+TEMP: N/A
+
+--- client1 ---
+CPU: 0,0% usado
+MEM: 820MB/1868MB (43,9%)
+LOAD: 0,77, 0,91, 0,69
+TEMP: N/A
+
+--- client2 ---
+CPU: 4,8% usado
+MEM: 733MB/1868MB (39,2%)
+LOAD: 0,69, 0,89, 0,71
+TEMP: N/A
+
+Presiona Ctrl+C para detener el monitoreo
+[H[2J[3J=== 00:42:39 ===
+
+--- master ---
+CPU: 78,3% usado
+MEM: 1335MB/1868MB (71,5%)
+LOAD: 1,89, 1,91, 1,64
+TEMP: N/A
+
+--- client1 ---
+CPU: 80,0% usado
+MEM: 820MB/1868MB (43,9%)
+LOAD: 0,77, 0,91, 0,69
+TEMP: N/A
+
+--- client2 ---
+CPU: 86,4% usado
+MEM: 740MB/1868MB (39,6%)
+LOAD: 0,63, 0,88, 0,71
+TEMP: N/A
+
+Presiona Ctrl+C para detener el monitoreo
+[H[2J[3J=== 00:42:43 ===
+
+--- master ---
+CPU: 69,6% usado
+MEM: 1335MB/1868MB (71,5%)
+LOAD: 1,98, 1,93, 1,65
+TEMP: N/A
+
+--- client1 ---
+CPU: 76,9% usado
+MEM: 822MB/1868MB (44,0%)
+LOAD: 0,87, 0,93, 0,70
+TEMP: N/A
+
+--- client2 ---
+CPU: 86,4% usado
+MEM: 740MB/1868MB (39,6%)
+LOAD: 0,74, 0,90, 0,72
+TEMP: N/A
+
+Presiona Ctrl+C para detener el monitoreo
+[H[2J[3J=== 00:42:48 ===
+
+--- master ---
+CPU: 86,4% usado
+MEM: 1336MB/1868MB (71,5%)
+LOAD: 2,06, 1,94, 1,66
+TEMP: N/A
+
+--- client1 ---
+CPU: 86,4% usado
+MEM: 822MB/1868MB (44,0%)
+LOAD: 0,96, 0,95, 0,71
+TEMP: N/A
+
+--- client2 ---
+CPU: 80,0% usado
+MEM: 740MB/1868MB (39,6%)
+LOAD: 0,84, 0,91, 0,72
+TEMP: N/A
+
+Presiona Ctrl+C para detener el monitoreo
+[H[2J[3J=== 00:42:52 ===
+
+--- master ---
+CPU: 82,6% usado
+MEM: 1336MB/1868MB (71,5%)
+LOAD: 2,13, 1,96, 1,66
+TEMP: N/A
+
+--- client1 ---
+CPU: 82,6% usado
+MEM: 822MB/1868MB (44,0%)
+LOAD: 1,05, 0,97, 0,72
+TEMP: N/A
+
+--- client2 ---
+CPU: 87,5% usado
+MEM: 741MB/1868MB (39,7%)
+LOAD: 0,93, 0,93, 0,73
+TEMP: N/A
+
+Presiona Ctrl+C para detener el monitoreo
+[H[2J[3J=== 00:42:57 ===
+
+--- master ---
+CPU: 83,3% usado
+MEM: 1333MB/1868MB (71,4%)
+LOAD: 2,20, 1,98, 1,67
+TEMP: N/A
+
+--- client1 ---
+CPU: 85,7% usado
+MEM: 822MB/1868MB (44,0%)
+LOAD: 1,28, 1,02, 0,73
+TEMP: N/A
+
+--- client2 ---

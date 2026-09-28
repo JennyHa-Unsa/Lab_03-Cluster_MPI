@@ -4,7 +4,7 @@ Este laboratorio tiene como objetivo ejecutar un programa de estrés en un clús
 
 ---
 
-## 📌 Pasos de ejecución para  Iniciar el monitoreo
+## Pasos de ejecución para  Iniciar el monitoreo
 Ejecuta el script de monitoreo en segundo plano y guarda el reporte en un archivo de log:
 
 ```bash
@@ -18,3 +18,14 @@ mpirun --tmpdir /home/master/Compartidos/tmp_mpi -np 6 -hostfile hosts.txt ./pru
 # Detener el monitoreo
 kill $MONITOR_PID
 ```
+
+## Resultados 
+Se logró una utilización sostenida de CPU >75% en los 6 núcleos del cluster durante 25 segundos continuos, validando la correcta configuración de OpenMPI 4.1.6 y la topología de red.
+
+![](img/cuadro_3.png)
+
+![](img/figura_7.png)
+
+![](img/figura_8.png)
+
+
